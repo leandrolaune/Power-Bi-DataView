@@ -6,11 +6,11 @@
 
 # Project Description
 
-_Portuguese Version:_
+**Portuguese Version:**
 
 Neste projeto de Power BI, realizou-se uma análise do e-commerce de livros Buscante. Desenvolveu-se um projeto completo no Power BI Desktop, com cartões, gráficos de barras e colunas, além de segmentos de dados para filtros interativos. Utilizaram-se recursos visuais não nativos e gráficos de indicadores e linha. As análises de vendas e clientes foram consolidadas em um Dashboard navegável. Implementaram-se gráficos de mapas, abordando erros comuns e soluções. O resultado foi um Dashboard interativo e informativo.
 
-_English Version:_
+**English Version:**
 
 In this Power BI project, an analysis of the Buscante book e-commerce was carried out. A complete project was developed in Power BI Desktop, with cards, bar and column charts, as well as data segments for interactive filters. Non-native visual resources and indicator and line graphs were used. Sales and customer analyzes were consolidated into a navigable Dashboard. Map graphics were implemented, addressing common errors and solutions. The result was an interactive and informative Dashboard.
 
@@ -22,7 +22,7 @@ In this Power BI project, an analysis of the Buscante book e-commerce was carrie
 
 ![alt text](image-5.png)
 
-_Portuguese Version:_
+**Portuguese Version:**
 
 Na primeira Página do dashboard construiu-se:
 
@@ -31,7 +31,7 @@ Na primeira Página do dashboard construiu-se:
 3. Tabela de calor de média de acesso.
 4. Gráfico de barras de valor do livro por título.
 
-_English Version:_
+**English Version:**
 
 On the first page of the dashboard, the following was created:
 
@@ -44,7 +44,7 @@ On the first page of the dashboard, the following was created:
 
 ![alt text](image-4.png)
 
-_Portuguese Version:_
+**Portuguese Version:**
 
 Na segunda página do dashboard foi construído:
 
@@ -53,7 +53,7 @@ Na segunda página do dashboard foi construído:
 3. Filtro de Semanas para a exibição de dados específicos acerca de cada semana nos demais componentes da página.
 4. Gráfico de linhas de acompanhamento de vendas.
 
-_English Version:_
+**English Version:**
 
 On the second page of the dashboard, the following was created:
 
@@ -66,7 +66,7 @@ On the second page of the dashboard, the following was created:
 
 ![alt text](image-3.png)
 
-_Portuguese Version:_
+**Portuguese Version:**
 
 Na terceira página do dashboard implementou-se:
 
@@ -76,7 +76,7 @@ Na terceira página do dashboard implementou-se:
 4. Mapa e filtro de cidade.
 5. Tabela de forma de contato preferido de acordo com as respectivas idades médias dos clientes.
 
-_English Version:_
+**English Version:**
 
 On the third page of the dashboard, the following was implemented:
 
