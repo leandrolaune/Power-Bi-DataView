@@ -12,7 +12,7 @@ Neste projeto de Power BI, realizou-se uma análise do e-commerce de livros Busc
 
 **English Version:**
 
-In this Power BI project, an analysis of the Buscante book e-commerce was carried out. A complete project was developed in Power BI Desktop, with cards, bar and column charts, as well as data segments for interactive filters. Non-native visual resources and indicator and line graphs were used. Sales and customer analyzes were consolidated into a navigable Dashboard. Map graphics were implemented, addressing common errors and solutions. The result was an interactive and informative Dashboard.
+In this Power BI project, an analysis of the Buscante book e-commerce was carried out. A complete project was developed in Power BI Desktop, with cards, bar and column charts, as well as data segments for interactive filters. Non-native visual resources and indicator and line graphs were used. Sales and customer analyzes were consolidated into a navigable Dashboard. Map graphics were implemented, addressing common problems and solutions. The result was an interactive and informative Dashboard.
 
 # Dashboard de Visualização de Dados analisados
 
