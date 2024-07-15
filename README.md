@@ -18,9 +18,9 @@ In this Power BI project, an analysis of the Buscante book e-commerce was carrie
 
 # Analyzed Data Visualization Dashboard
 
-## E-commmerce
+### E-commmerce
 
-![alt text](image-5.png)
+![alt text](image.png)
 
 **Portuguese Version:**
 
@@ -40,9 +40,11 @@ On the first page of the dashboard, the following was created:
 3. Access average heat table.
 4. Bar chart of book value by title.
 
-## Acompanhamento de Vendas
+### Acompanhamento de Vendas
 
-![alt text](image-4.png)
+### Sales Tracking
+
+![alt text](image-1.png)
 
 **Portuguese Version:**
 
@@ -62,9 +64,11 @@ On the second page of the dashboard, the following was created:
 3. Weeks Filter for displaying specific data about each week in the other components of the page.
 4. Sales tracking line chart.
 
-## Perfil do Cliente
+### Perfil do Cliente
 
-![alt text](image-3.png)
+### Customer Profile
+
+![alt text](image-2.png)
 
 **Portuguese Version:**
 
@@ -86,14 +90,14 @@ On the third page of the dashboard, the following was implemented:
 4. Map and city filter.
 5. Table of preferred contact methods according to the respective average ages of customers.
 
-## Observação
+### Observação
 
-## Comment
+### Comment
 
-### Portuguese Version:
+**Portuguese Version:**
 
 A navegabilidade do dashboard é completameente funcional, uma vez que é possível navegar entre as páginas clicando nos botões adcionados ao canto superior direito.
 
-### English Version:
+**English Version:**
 
 The dashboard's navigability is completely functional, as it is possible to navigate between pages by clicking on the buttons added to the top right corner.
